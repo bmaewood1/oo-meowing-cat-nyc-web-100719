@@ -8,6 +8,10 @@ class Cat
     @name = cat_name
   end
 
+  def name
+    puts "meow!"
+  end
+
 end
 
 
